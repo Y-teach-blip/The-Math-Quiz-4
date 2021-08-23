@@ -1,0 +1,33 @@
+body 
+{
+    background-image: url('Tex...jpg');
+    background-size: cover;
+}
+
+h2
+{
+    font-family: '';
+    font-size: 55px;
+    font-weight: 700;
+}
+
+#output 
+{
+    background-color: rgb(255, 225, 225);
+    border-radius: 10px;
+    border-top: 10px solid #ff7ba5;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+span 
+{
+    font-size: 18px;
+    color: white;
+}
+
+#number_1
+{
+   background-image: linear-gradient(lightpink); 
+}
